@@ -23,7 +23,7 @@
     "mongoose": "^5.12.15",
     "node-svg2img": "^1.1.0",
     "redis": "^3.1.2",
-    "tresenraya": "0.0.6"
+    "tresenraya": "0.0.7"
   },
   "devDependencies": {
     "prettier": "2.3.2"
